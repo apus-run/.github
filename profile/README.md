@@ -1,7 +1,5 @@
 ![APUS banner](./header.png)
 
-[Website](http://moocss.com) | [E-Mail](mailto:moocss@gmail.com)
-
 [APUS](https://github.com/apus-run) A Powerful Collection Of Kit.
 
 | Kit                                                            	| Description                                      |
