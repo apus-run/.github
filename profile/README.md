@@ -19,5 +19,3 @@
 ## 生态
 
 整理中...
-
-<style>table{width: 100%;}</style>
